@@ -7,8 +7,6 @@ title: null
 
 Example text here.
 
-<img src="images/myheadshot.png?raw=true"/>
-
 
 ## Subtitle
 
