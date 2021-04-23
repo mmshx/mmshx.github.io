@@ -9,7 +9,7 @@ Example text here.
 
 <img src="images/myheadshot.png?raw=true"/>
 
-<!-- 
+
 ## Subtitle
 
 1. First ordered list item
@@ -22,4 +22,4 @@ Example text here.
 
 [My second page](https://mmshx.github.io/second)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan viverra diam, sed rutrum sapien facilisis quis. Morbi eu odio justo. Nunc nibh nulla, iaculis vel ligula at, ullamcorper convallis purus. Nunc vel mattis nulla, et dictum augue. -->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan viverra diam, sed rutrum sapien facilisis quis. Morbi eu odio justo. Nunc nibh nulla, iaculis vel ligula at, ullamcorper convallis purus. Nunc vel mattis nulla, et dictum augue.
